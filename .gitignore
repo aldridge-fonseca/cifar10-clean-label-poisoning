@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated experiment artifacts
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.npy
+*.npz
+artifacts/
+models/
+
+# Editor/system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LaTeX build output
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
